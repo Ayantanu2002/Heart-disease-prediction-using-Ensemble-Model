@@ -28,3 +28,8 @@ The project follows these main steps:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- 
+You can install the dependencies using the following command:
+
+```bash
+pip install -r requirements.txt
