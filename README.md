@@ -20,6 +20,10 @@ The project follows these main steps:
 3. **Model Selection**: Experimenting with different ensemble methods such as Random Forest, Gradient Boosting, and Stacking.
 4. **Model Evaluation**: Assessing model performance using metrics such as accuracy, precision, recall, and F1-score.
 
+## Flowchart 
+The flowchart of the algorithm is described bellow:
+![Stacked Based (1)](https://github.com/Ayantanu2002/Heart-disease-prediction-using-Ensemble-Model/assets/90440437/ce528109-3f8e-4293-a16b-0f43a2ba1eff)
+
 ## Dependencies
 
 - Python 3.x
