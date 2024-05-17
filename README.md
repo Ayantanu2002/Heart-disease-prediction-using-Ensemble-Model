@@ -22,6 +22,7 @@ The project follows these main steps:
 
 ## Flowchart 
 The flowchart of the algorithm is described bellow:
+
 ![Stacked Based (1)](https://github.com/Ayantanu2002/Heart-disease-prediction-using-Ensemble-Model/assets/90440437/ce528109-3f8e-4293-a16b-0f43a2ba1eff)
 
 ## Dependencies
